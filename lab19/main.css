@@ -1,0 +1,39 @@
+body {
+	background-color: black;
+	font-family: Trebuchet MS;
+	color: white;
+	text-align: center;
+}
+
+h1 {
+	text-align: center;
+	font-size: 55px;
+	color: Aqua;
+	text-decoration: underline;
+}
+
+ul{
+	color: chartreuse;
+	font-size: 25px;
+}
+
+.name{
+	color:cornflowerblue;
+	font-style: normal;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+button{
+	color: white;
+	position: sticky;
+	font-size: 15px;
+	background-color: black;
+	border-color: cornflowerblue;
+}
+
+footer{
+	color: magenta;
+	font-style: italic;
+	padding-top: 40px;
+}
